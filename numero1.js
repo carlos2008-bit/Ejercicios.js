@@ -156,3 +156,6 @@ console.log(sistema.autenticar("JuanCruz", "2345")); // Acceso permitido
 console.log(sistema.autenticar("RaulSanchez", "3456")); // Acceso permitido
 console.log(sistema.autenticar("usuario3", "clave123")); // Acceso denegado (usuario no existe)
 console.log(sistema.autenticar("AnaMu", "incorrecta")); // Acceso denegado (contraseña incorrecta)
+
+
+//se actualizó?????????
